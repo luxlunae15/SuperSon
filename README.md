@@ -1,12 +1,15 @@
 # SuperSon
 산학연계SW프로젝트 슈퍼손팀 Openpose를 이용한 체력측정 자동화
 
-Prerequisites
+## Prerequisites
+
 Openpose
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 mjpg-streamer
 https://github.com/jacksonliam/mjpg-streamer
+
+## 사용법
 
 Openpose가 설치, 운용이 가능한 PC에 openpose를 설치하고, openpose 디렉토리에 server의 내용물인 superson.py와 png 파일들을 배치
 
